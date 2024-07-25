@@ -12,7 +12,7 @@
 
 	aliases {
 		ethernet0 = &gem0;
-		serial0 = &uart1;
+		serial0 = &uart0;
 	};
 
 	memory@0 {
@@ -49,7 +49,7 @@
 	status = "okay";
 };
 
-&uart1 {
+&uart0 {
 	status = "okay";
 };
 
