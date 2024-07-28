@@ -8,7 +8,7 @@
 #include <dt-bindings/gpio/gpio.h>
 
 / {
-	model = "Digilent Zybo Z7 board";
+	model = "Digilent Cora Z7 Board";
 	compatible = "digilent,zynq-cora-z7", "xlnx,zynq-7000";
 
 	aliases {
